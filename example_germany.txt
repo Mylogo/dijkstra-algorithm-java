@@ -1,0 +1,13 @@
+Koeln,-12.663274620710794,3.672127086849351,Frankfurt,Kassel,Hannover,Dortmund,Erfurt,Saarbruecken,Mannheim
+Magdeburg,18.22236639364204,27.532235828399966,Kassel,Hannover,Berlin,Leipzig,Dortmund,Erfurt
+Frankfurt,-1.2002270699862136,-2.6275241261860356,Bonn,Kassel,Koeln,Leipzig,Wuerzburg,Dortmund,Erfurt,Saarbruecken,Mannheim
+Wuerzburg,6.031190548704086,-4.3397865571855965,Frankfurt,Leipzig,Dortmund,Erfurt,Saarbruecken
+Hannover,-3.916957262184738,33.322520476846975,Kassel,Berlin,Leipzig,Koeln,Magdeburg,Dortmund
+Mannheim,-2.470340040244109,-6.209233074127084,Frankfurt,Bonn,Koeln,Dortmund,Erfurt,Saarbruecken
+Saarbruecken,-13.908036655583489,-9.253101938204527,Frankfurt,Bonn,Koeln,Wuerzburg,Dortmund,Mannheim
+Berlin,30.0,35.0,Kassel,Hannover,Leipzig,Magdeburg,Erfurt
+Leipzig,22.536696131700594,13.908036655583489,Frankfurt,Kassel,Hannover,Berlin,Magdeburg,Wuerzburg
+Dortmund,-10.393232421567557,8.39025401055882,Frankfurt,Bonn,Kassel,Hannover,Koeln,Magdeburg,Wuerzburg,Erfurt,Saarbruecken,Mannheim
+Kassel,3.6655583488768144,13.721514881193741,Frankfurt,Bonn,Hannover,Berlin,Koeln,Leipzig,Magdeburg,Dortmund,Erfurt
+Erfurt,12.307189569864795,7.544552014799576,Frankfurt,Bonn,Kassel,Berlin,Koeln,Magdeburg,Dortmund,Wuerzburg,Mannheim
+Bonn,-12.307189569864795,2.025233726686612,Frankfurt,Kassel,Dortmund,Erfurt,Saarbruecken,Mannheim

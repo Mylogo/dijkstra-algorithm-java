@@ -1,0 +1,67 @@
+.background {
+    -fx-background-color: rgb(38, 50, 56);
+}
+
+.yellow-text {
+    -fx-text-fill: rgb(255, 203, 107);
+}
+
+.blue-text {
+    -fx-text-fill: rgb(130, 170, 255);
+}
+
+.turq {
+    -fx-font-style: "Helvetica";
+    -fx-text-fill: rgb(128, 203, 196);
+}
+
+.my-field {
+    -fx-background-color: rgb(84, 110, 122);
+    -fx-text-fill: rgb(128, 203, 196);
+}
+
+.radio-button .radio {
+    -fx-background-color: rgb(84, 110, 122);
+}
+.radio-button .dot {
+    -fx-fill: transparent;
+}
+
+.radio-button:selected .dot {
+    -fx-background-color: rgb(128, 203, 196);
+}
+
+.tab-pane .tab-header-background {
+    -fx-background-color: rgb(38, 50, 56);
+}
+
+.tab-pane .tab {
+    -fx-background-color: none;
+}
+
+.tab-pane .tab:selected {
+    -fx-background-color: rgb(84, 110, 122);
+}
+
+.tab-pane .tab-label {
+    /*-fx-color: transparent;*/
+        -fx-text-fill: rgb(128, 203, 196);
+}
+
+#error-label {
+    -fx-text-fill: rgb(255, 80, 50);
+}
+
+.list-view {
+    -fx-background-color: rgb(84, 110, 122);
+}
+
+.move-manually-selected {
+    -fx-background-color: rgb(84, 230, 122);
+    -fx-text-fill: rgb(84, 110, 122);
+}
+
+/*.list-cell {*/
+    /*-fx-background-color: rgb(84, 110, 122);*/
+    /*-fx-text-fill: rgb(128, 203, 196);*/
+/*}*/
